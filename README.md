@@ -1,25 +1,18 @@
-# frontend-master
-## フロントエンドの技術全般を学ぶ
-- https://roadmap.sh/frontend
-# Reactを深く理解する
+# 目標
+- 誰の補助もなく、パソコン１台あれば利益を上げられる人材
+
+## コーディングスキル
+### Reactを深く理解する
 - https://roadmap.sh/react
-
-# backend-master
-## バックエンドを広く浅く理解する
-- https://roadmap.sh/backend
-
-# GOを深く理解する
+### GOを深く理解する
 - https://github.com/Alikhll/golang-developer-roadmap/blob/master/i18n/ja-JP/ReadMe-ja-JP.md
 
-# 全般的な目標
-- 誰の補助もなく、パソコン１台あれば利益を上げられる人材
-  - コーディングスキル
-    - https://roadmap.sh/react
-    - https://roadmap.sh/golang
+## WEB開発全般の理解
+### バックエンドを広く浅く理解する
+- https://roadmap.sh/backend
 
-- ネット全体の理解
-  - https://roadmap.sh/backend
-  - https://roadmap.sh/frontend
+### フロントエンドの技術全般を学ぶ
+- https://roadmap.sh/frontend
 
-- コミュニケーション
-  - プロジェクトを進めながら理解
+## コミュニケーション
+- 上記で学んだことを、言語化して、お客様と話せるようにする
