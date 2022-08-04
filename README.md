@@ -35,6 +35,7 @@
 
 ## 営業力
 - 外部の勉強会に参加
+- LT
 
 ## コミュニケーションスキル
 - [エンジニアのための伝わる書き方講座](https://www.amazon.co.jp/-/en/%E9%96%8B%E7%B1%B3-%E7%91%9E%E6%B5%A9/dp/477416576X/ref=pd_sim_sccl_3_5/356-1222342-4117758?pd_rd_w=2GZAg&content-id=amzn1.sym.2d758e85-569e-4f76-89c5-c3b108d7fbaf&pf_rd_p=2d758e85-569e-4f76-89c5-c3b108d7fbaf&pf_rd_r=X30AM00YKEWFVH0WABJ3&pd_rd_wg=ARBaE&pd_rd_r=b37c9c29-5676-4ac7-8e67-a58329231b5f&pd_rd_i=477416576X&psc=1)
