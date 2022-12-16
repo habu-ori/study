@@ -15,5 +15,5 @@
 
 ## 目標の運用ルール
 - 目標の設定は毎月設定する
- - https://github.com/habu-ori/study/wiki
+  - https://github.com/habu-ori/study/wiki
 - ２週間に１回のペースで進捗の振り返りを行う
