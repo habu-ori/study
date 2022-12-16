@@ -3,17 +3,17 @@
 
 ## 目標達成のためにやること
 - 外部勉強会参加
-　　- ２週間に1回以上
+ - ２週間に1回以上
 - バックエンド/フロントエンドの幅広い知見獲得
-　　- バックエンド全般
-　　　　- https://roadmap.sh/backend
-　　- フロントエンド全般
-　　　　- https://roadmap.sh/frontend
+ - バックエンド全般
+  - https://roadmap.sh/backend
+- フロントエンド全般
+  - https://roadmap.sh/frontend
 - 設計力の向上
-　　- 要件をコードレベルに落とし込める力
-   - 自分の対応するissueについて、設計を文章にまとめてから実装する
+ - 要件をコードレベルに落とし込める力
+  - 自分の対応するissueについて、設計を文章にまとめてから実装する
 
 ## 目標の運用ルール
 - 目標の設定は毎月設定する
-  - https://github.com/habu-ori/study/wiki
+ - https://github.com/habu-ori/study/wiki
 - ２週間に１回のペースで進捗の振り返りを行う
